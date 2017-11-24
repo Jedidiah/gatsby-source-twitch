@@ -1,6 +1,8 @@
 # gatsby-source-twitch
 
-A gatsby source plugin for fetching all the videos and channel info for a Twitch user ID.
+A [gatsby](https://www.gatsbyjs.org/) source plugin for fetching all the videos and channel info for a Twitch user ID.
+
+Learn more about Gatsby plugins and how to use them here: https://www.gatsbyjs.org/docs/plugins/
 
 ## Install
 
