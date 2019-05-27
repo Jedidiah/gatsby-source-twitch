@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-twitch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gatsby source to fetch data from the Twitch API",
   "main": "index.js",
   "repository": "https://github.com/jedidiah/gatsby-source-twitch",
