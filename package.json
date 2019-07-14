@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-twitch",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gatsby source to fetch data from the Twitch API",
   "main": "index.js",
   "repository": "https://github.com/jedidiah/gatsby-source-twitch",
@@ -13,9 +13,9 @@
     "twitch"
   ],
   "dependencies": {
-    "axios": "^0.17.1",
     "@babel/polyfill": "^7.4.4",
-    "@babel/runtime": "^7.5.4"
+    "@babel/runtime": "^7.5.4",
+    "axios": "^0.17.1"
   },
   "scripts": {
     "build": "babel src --out-dir . --ignore __tests__",
